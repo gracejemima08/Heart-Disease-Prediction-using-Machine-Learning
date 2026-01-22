@@ -1,11 +1,3 @@
-Bahut badiya 👍
-Tumhara project **ML + Streamlit app** hai, isliye README thoda professional hona chahiye — jisse teacher, interviewer, ya GitHub visitor impress ho.
-
-Neeche **ready-made README content** de raha hoon.
-Isko **copy–paste** kar do apne README.md me.
-
----
-
 # ❤️ Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of **heart disease** in a patient using **Machine Learning models** and provides an interactive **Streamlit web application** for real-time prediction.
