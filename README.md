@@ -87,8 +87,9 @@ Heart-Disease-Prediction/
 ## ▶️ How to Run the App Locally
 
 1. Install dependencies
-
+```
 pip install -r requirements.txt
+```
 
 2. Run the Streamlit app
 
@@ -127,4 +128,3 @@ The goal of this project is to demonstrate how Machine Learning can assist in ea
 
 **Grace**
 
-Agar chaho to mai tumhare naam ke saath isko aur **portfolio / resume level** bana du (thoda aur professional touch ke saath).
